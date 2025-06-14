@@ -20,8 +20,8 @@ A simple task management application built with React Native for Chapter One's T
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/carlhuu/todo
+cd todo
 ```
 
 2. Install dependencies:
