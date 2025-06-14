@@ -1,6 +1,6 @@
-# React Native Task Manager
+# todo
 
-A simple task management application built with React Native. This app allows users to create, complete, and delete tasks with a clean user interface.
+A simple task management application built with React Native for Chapter One's Tech Screen. This app allows users to create, complete, and delete tasks with a clean user interface.
 
 ## Features
 
